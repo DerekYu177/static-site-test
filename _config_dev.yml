@@ -1,16 +1,10 @@
-#local run:
-#jekyll serve --config _config.yml,_config_dev.yml
-
-#to push the site to GitHub
-#create new branch "publish" for this
-
 # Site Settings
 title: Static Site
 email: derek.yu.lind@gmail.com
 description: >
   A guide to getting started with Jekyll.
-baseurl: "" #"/static-site"
-url: "http://localhost:4000" #"http://bitbit.github.io"
+baseurl: ""
+url: "http://localhost:4000"
 github_username:  DerekYu177
 # Build Settings
 sass:
