@@ -427,6 +427,9 @@
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
+		width: 20px;
+		height: 20px;
+		margin: 10px;
 	}
 
 		.icon:before {
