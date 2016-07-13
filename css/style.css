@@ -982,6 +982,11 @@
 				right: 0;
 			}
 
+		.triple {
+			display: inline-block;
+			text-align: center;
+		}
+
 /* Banner */
 
 	#banner {
