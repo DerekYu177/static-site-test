@@ -9,4 +9,4 @@ github_username:  DerekYu177
 
 # Build settings
 markdown: kramdown
-# include: ["_pages"]
+include: ["_pages"]
