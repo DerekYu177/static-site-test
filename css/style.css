@@ -994,7 +994,7 @@
 
 	#banner {
 		background-color: #666666;
-		background-image: url("../images/banner.jpg");
+		background-image: url("../images/McGill Landing Page Background.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-repeat: no-repeat;
@@ -1101,3 +1101,11 @@
 		#footer .icons a {
 			color: #bbb;
 		}
+
+/* profile */
+
+	#profile {
+		background-color: #D3D3D3;
+		text-align: center;
+		padding: 2;
+	}

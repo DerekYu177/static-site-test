@@ -1,7 +1,7 @@
 # Site settings
-title: Static
+title: Nobe McGill
 email: derek.yu.lind@gmail.com
-description: > # Static 2.0
+description: > # http://nobe.mcgilleus.ca/index.html replacement
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "localhost:4000" # the base hostname & protocol for your site
 twitter_username: cloudsInfinity
