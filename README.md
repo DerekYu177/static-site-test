@@ -1,18 +1,20 @@
 Site requirements:
 
-*Who is the site meant for?*
-3. people interested in the club
-1. club members (exec/normal)
-2. interested professionals
+### Who is the site meant for?
 
-*What do they want to see?*
-  1. A polished site which speaks to NOB and the individual
+1. people interested in the club
+2. club members (exec/normal)
+3. interested professionals
+
+### What do they want to see?
+
+  1. A polished site which speaks to NOBE and the individual
   2. Easy access to events or calendar with all of the upcoming events
   3. A list of the biggest accomplishments / statistics
   4. Easy access to contact details should they want to sponsor
   5. A professional reference page for the exec members
 
-The site should have:
+#### The site should have:
   1. a simple and clean layout for the landing page
   2. A contact page
   3. An about me page
@@ -20,7 +22,7 @@ The site should have:
   5. About the team page
   6. An individual page for each exec - they can write that shitAS
 
-1. Landing
+###### 1. Landing
   First POC - must be polished
   Two buttons from there:
     1. Upcoming events
@@ -33,7 +35,7 @@ The site should have:
   Continued scrolling should also yield a preview for the "About the Team" page
   higher up execs get front and center attention
 
-2.Upcoming Events
+###### 2.Upcoming Events
   This should have a threefold purpose
     1. Easy access to available resources for team members
     2. Potential sponsors can see which events they would like to sponsor
@@ -42,13 +44,13 @@ The site should have:
   An easy-to-use calendar or other potentially integrated method excellent here
   _future_ having an ical ref or google calendar subscription
 
-3. Contact Me
+###### 3. Contact Me
   Here we should be able to contact each exec _position_ professionally
   i.e. if we want to talk finance, we can talk to finace@nobemcgill
   Granular contact methods for each position
   Integrated mail sending
 
-4. About the Team (Landing)
+###### 4. About the Team (Landing)
   This is probably what exec members want the most
     1. A chance to show off their position
     2. Easily contact on a exec personal level
@@ -61,7 +63,7 @@ The site should have:
   It is a chance to express who they are and what they stand for
   LinkedIn is their CV
 
-Header
+### Header
   This should appear on all pages _except_ the landing page
   One click access to relevant links
     1. Home
@@ -69,10 +71,9 @@ Header
     3. Contact Me
   Simple
 
-Footer
+### Footer
   This should appear on _all_ pages
   One click access to secondary links:
     1. Meet the team
     2. About the site / Webmaster?
     3. Social Media sites
-    
