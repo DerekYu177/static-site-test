@@ -3,5 +3,24 @@ layout: default
 title: Affiliates
 permalink: /affiliates
 group: top
-style: Right Column
+style: No Column
 ---
+
+<section id="main" class="wrapper style1">
+  <header class="major">
+    <h2>
+      Our Affiliations include
+    </h2>
+  </header>
+  <div class="container">
+    <div class="row">
+      <ul class="photo-gallery">
+        {% for logo in site.data.logos %}
+          <li>
+            <img src="{{ logo.image_path }}" alt="{{ logo.name }}">
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</section>

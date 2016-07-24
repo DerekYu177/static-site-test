@@ -1,0 +1,59 @@
+- name: accenture
+  image_path: logo-affiliates/accenture.png
+
+- name: apple
+  image_path: logo-affiliates/apple.png
+
+- name: bain
+  image_path: logo-affiliates/bain.png
+
+- name: bitcoin
+  image_path: logo-affiliates/bitcoin.png
+
+- name: bmo
+  image_path: logo-affiliates/bmo.jpg
+
+- name: busbud
+  image_path: logo-affiliates/busbud.png
+
+- name: captial_one
+  image_path: logo-affiliates/capital_one.jpg
+
+- name: ciena
+  image_path: logo-affiliates/ciena.png
+
+- name: credit_suisse
+  image_path: logo-affiliates/credit_suisse.png
+
+- name: desjardins
+  image_path: logo-affiliates/desjardins.png
+
+- name: flextronic_logo
+  image_path: logo-affiliates/flextronic_logo.jpg
+
+- name: general_electric
+  image_path: logo-affiliates/general_electric.png
+
+- name: haivision
+  image_path: logo-affiliates/haivision.png
+
+- name: loreal
+  image_path: logo-affiliates/loreal.jpg
+
+- name: mckinsey
+  image_path: logo-affiliates/mckinsey.jpg
+
+- name: monitor_deloitte
+  image_path: logo-affiliates/monitor_deloitte.jpg
+
+- name: oliver_wyman
+  image_path: logo-affiliates/oliver_wyman.jpg
+
+- name: rbc-logo
+  image_path: logo-affiliates/rbc-logo.png
+
+- name: roland_berger
+  image_path: logo-affiliates/roland_berger.png
+
+- name: space_x
+  image_path: logo-affiliates/space_x.png
