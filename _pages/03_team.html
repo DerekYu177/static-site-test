@@ -20,9 +20,8 @@ style: No Column
             <a href="{{ exec.link }}">
               <img src="{{ exec.image_path }}" alt="{{ exec.name }}">
             </a>
-            <p>
-              {{ exec.description }}
-            </p>
+            <h3>{{ exec.name }} | {{ exec.title }}</h3>
+            <p>{{ exec.description }}</p>
           </li>
         {% endfor %}
       </ul>

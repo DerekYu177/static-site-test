@@ -1,7 +1,9 @@
 - name: Priya Raina
   image_path: /profiles/priya-raina.jpg
   description: hi there!
+  title: President
 
 - name: Richard Wu
   image_path: /profiles/richard-wu.jpg
   description: yo fam watup
+  title: some rando
