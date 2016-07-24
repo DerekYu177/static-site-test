@@ -15,6 +15,7 @@ Site requirements:
   5. A professional reference page for the exec members
 
 #### The site should have:
+
   1. a simple and clean layout for the landing page
   2. A contact page
   3. An about me page
@@ -25,6 +26,7 @@ Site requirements:
 ###### 1. Landing
   First POC - must be polished
   Two buttons from there:
+
     1. Upcoming events
     2. Contact me (contact nobemcgill)
 
@@ -37,6 +39,7 @@ Site requirements:
 
 ###### 2.Upcoming Events
   This should have a threefold purpose
+
     1. Easy access to available resources for team members
     2. Potential sponsors can see which events they would like to sponsor
     3. Interested recruits can see what the year is like
@@ -52,6 +55,7 @@ Site requirements:
 
 ###### 4. About the Team (Landing)
   This is probably what exec members want the most
+
     1. A chance to show off their position
     2. Easily contact on a exec personal level
     3. Their profile picture and mission statement
@@ -66,6 +70,7 @@ Site requirements:
 ### Header
   This should appear on all pages _except_ the landing page
   One click access to relevant links
+
     1. Home
     2. Upcoming Events
     3. Contact Me
@@ -74,6 +79,7 @@ Site requirements:
 ### Footer
   This should appear on _all_ pages
   One click access to secondary links:
+
     1. Meet the team
     2. About the site / Webmaster?
     3. Social Media sites
