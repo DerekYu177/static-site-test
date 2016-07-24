@@ -46,6 +46,9 @@
 - name: monitor_deloitte
   image_path: logo-affiliates/monitor_deloitte.jpg
 
+- name: national bank
+  image_path: logo-affiliates/national_bank.jpg
+
 - name: oliver_wyman
   image_path: logo-affiliates/oliver_wyman.jpg
 

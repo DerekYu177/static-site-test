@@ -893,7 +893,7 @@
 	}
 
 	#header {
-		background: #fff;
+		background: #B60F10;
 		color: #555f66;
 		cursor: default;
 		height: 3em;
@@ -907,7 +907,7 @@
 	}
 
 		#header h1 {
-			color: #666f77;
+			color: #FFFFFF;
 			font-weight: 500;
 			height: inherit;
 			left: 1.25em;
@@ -950,7 +950,7 @@
 						-o-transition: color 0.2s ease-in-out;
 						-ms-transition: color 0.2s ease-in-out;
 						transition: color 0.2s ease-in-out;
-						color: #555f66;
+						color: #FFFFFF;
 						display: inline-block;
 						text-decoration: none;
 					}
@@ -1072,8 +1072,9 @@
 		padding: 4em 0 6em 0;
 	}
 
-		#footer a {
+		#footer a, #footer i {
 			color: inherit;
+			text-align: center;
 		}
 
 		#footer .copyright {
@@ -1107,6 +1108,7 @@
 .photo-gallery, .photo-gallery li {
 	list-style: none;
 	padding: 3;
+	text-align: center;
 }
 
 .photo-gallery li {
